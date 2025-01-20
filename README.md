@@ -1,2 +1,2 @@
 # AcademePro
-This repository showcases my academic projects and research in computer applications courses.
+This repository showcases my academic projects and research from my computer applications courses.
